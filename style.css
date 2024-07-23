@@ -111,5 +111,6 @@ h1{
 h2{
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
+    color: #1F2937; 
+    text-align: center;
 }
