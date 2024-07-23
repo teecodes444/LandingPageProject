@@ -148,3 +148,10 @@ h2{
     background-color: #E5E7E3;
     height: 350px;
 }
+
+h3{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
