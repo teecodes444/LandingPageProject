@@ -56,13 +56,19 @@ li{
     margin: 50px;
 }
 
-.awesomeLeft,.awesomeRight{
+.awesomeLeft{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.awesomeRight{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 50%;
-    /* used to split each nested div and take up 50% of awesome div  */
+    /* used to take up 50% of awesome div  */
 }
 
 h1{
