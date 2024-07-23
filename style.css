@@ -115,8 +115,19 @@ h2{
     text-align: center;
 }
 
+.informationSection{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
 .infoContainer{
     display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 50px 150px;
+
 }
 
 .infoBox{
