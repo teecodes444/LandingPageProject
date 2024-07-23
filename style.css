@@ -192,7 +192,21 @@ h3{
 .rightCTA{
     margin-right: 150px;
 }
+
 h4{
     color: #F9FAF8;
 
+}
+
+.ctaText{
+    color: #E5E7EB;
+}
+
+.buttonTwo{
+    background-color: #3882F6;
+    width: 90px;
+    height: 27px;
+    border: 2px solid #E5E7EB;
+    border-radius: 8px;
+    color: #E5E7EB;
 }
