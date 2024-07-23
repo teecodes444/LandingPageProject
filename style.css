@@ -177,5 +177,22 @@ h3{
     background-color: #3882F6;
     width: 75%;
     height: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftCTA{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.rightCTA{
+    margin-right: 150px;
+}
+h4{
+    color: #F9FAF8;
 
 }
