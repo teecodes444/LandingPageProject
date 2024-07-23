@@ -60,7 +60,6 @@ li{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     width: 50%;
     margin-left: 154px;
     
@@ -88,7 +87,11 @@ li{
     align-items: center;
     width: 50%;
     /* used to take up 50% of awesome div  */
+    border: 3px solid gray;
+    background-color: gray;
+    color: #F9F8FA;
 }
+
 
 h1{
     font-size: 48px;
@@ -97,5 +100,9 @@ h1{
 }
 
 #img{
-    margin: 50px;
+    /* width: 125px;
+    height: 125px;
+    border: 3px solid gray;
+    background-color: gray;
+    color: #F9F8FA; */
 }
