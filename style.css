@@ -17,9 +17,25 @@ body{
 
 }
 
+.nav{
+    display: flex;
+}
+
+.navLeft,.navRight{
+/* using chaining selctors to select both nav sections  */
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
 #headerLogo{
     font-size: 24px;
     color: #F9FAF8;
+}
+
+ul{
+    display: flex;
 }
 
 .headerLink{
