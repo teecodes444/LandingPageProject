@@ -53,6 +53,7 @@ li{
 .awesome{
     display: flex;
     flex-direction: row;
+    margin: 50px;
 }
 
 .awesomeLeft,.awesomeRight{
@@ -63,8 +64,13 @@ li{
     width: 50%;
     /* used to split each nested div and take up 50% of awesome div  */
 }
+
 h1{
     font-size: 48px;
     font-weight: bolder;
     color: #F9F8FA;
+}
+
+#img{
+    margin: 50px;
 }
