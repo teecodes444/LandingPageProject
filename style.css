@@ -79,6 +79,7 @@ li{
     height: 27px;
     border: 2px #3882F6;
     border-radius: 8px;
+    margin-top: 10px;
 }
 
 .awesomeRight{
@@ -190,7 +191,7 @@ h3{
 }
 
 .rightCTA{
-    margin-right: 150px;
+    margin-right: 120px;
 }
 
 h4{
@@ -209,4 +210,13 @@ h4{
     border: 2px solid #E5E7EB;
     border-radius: 8px;
     color: #E5E7EB;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    displaY: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
 }
