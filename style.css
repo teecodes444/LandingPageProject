@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* imports the Roboto font from google fonts  */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* the asterik selects all elements within the body  */
+/* setting margin and padding to 0 stretches the elements to take up whole page  */
+
+body{
+    font-family: roboto;
+}
+
 .heroSection{
     background-color: #1F2937;
 
@@ -7,6 +21,7 @@
     font-size: 24px;
     color: #F9FAF8;
 }
+
 li{
     list-style-type: none;
 }
