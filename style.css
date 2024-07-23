@@ -49,3 +49,9 @@ ul{
 li{
     list-style-type: none;
 }
+
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9F8FA;
+}
