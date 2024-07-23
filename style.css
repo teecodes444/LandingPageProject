@@ -50,6 +50,17 @@ li{
     list-style-type: none;
 }
 
+.awesome{
+    display: flex;
+    flex-direction: row;
+}
+
+.awesomeLeft,.awesomeRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 h1{
     font-size: 48px;
     font-weight: bolder;
