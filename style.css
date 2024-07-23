@@ -25,6 +25,7 @@ body{
 /* using chaining selctors to select both nav sections  */
     display: flex;
     width: 50%;
+    /* used to set each section's width to take up 50% of the nav div  */
     justify-content: center;
     align-items: center;
 }
@@ -41,6 +42,8 @@ ul{
 .headerLink{
     font-size: 18px;
     color: #E5E7EB;
+    margin: 10px;
+    /* adds space between each header link  */
 }
 
 li{
