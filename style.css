@@ -22,6 +22,11 @@ body{
     color: #F9FAF8;
 }
 
+.headerLink{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 li{
     list-style-type: none;
 }
