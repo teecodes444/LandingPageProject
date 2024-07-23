@@ -72,6 +72,15 @@ li{
     
 }
 
+.buttonOne{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 90px;
+    height: 27px;
+    border: 2px #3882F6;
+    border-radius: 8px;
+}
+
 .awesomeRight{
     display: flex;
     flex-direction: column;
