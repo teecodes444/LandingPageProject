@@ -173,7 +173,9 @@ h3{
  align-items: center;
 }
 
-/* .ctaContent{
+.ctaContent{
     background-color: #3882F6;
+    width: 75%;
+    height: 40%;
 
-} */
+}
