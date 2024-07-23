@@ -59,13 +59,17 @@ li{
 .awesomeLeft{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 50%;
-    /* padding-left: 95px; */
+    margin-left: 154px;
+    
 }
 
 .awesomeText{
     font-size: 18px;
     color: #E5E7EB;
+    
 }
 
 .awesomeRight{
