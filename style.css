@@ -60,6 +60,8 @@ li{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 50%;
+    /* used to split each nested div and take up 50% of awesome div  */
 }
 h1{
     font-size: 48px;
